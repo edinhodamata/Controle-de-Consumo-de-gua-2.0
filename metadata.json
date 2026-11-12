@@ -1,0 +1,6 @@
+{
+  "name": "Água Control",
+  "description": "Painel residencial para acompanhamento de leituras de hidrômetro, ritmo de consumo e simulação progressiva da fatura de água e esgoto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
